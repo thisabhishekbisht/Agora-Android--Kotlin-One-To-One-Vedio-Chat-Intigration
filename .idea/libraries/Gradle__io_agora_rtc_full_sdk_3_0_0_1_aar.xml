@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.agora.rtc:full-sdk:3.0.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/full-sdk-3.0.0.1.aar/769279621265d8aead5dc61f6b3f1a7b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/full-sdk-3.0.0.1.aar/769279621265d8aead5dc61f6b3f1a7b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/full-sdk-3.0.0.1.aar/769279621265d8aead5dc61f6b3f1a7b/jars/libs/agora-rtc-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.agora.rtc/full-sdk/3.0.0.1/225be6db40cfdd977203c0c98d635c1f4aa9d56f/full-sdk-3.0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.agora.rtc/full-sdk/3.0.0.1/225be6db40cfdd977203c0c98d635c1f4aa9d56f/full-sdk-3.0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
